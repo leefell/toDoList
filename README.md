@@ -1,6 +1,6 @@
 # ToDoList Console App
 
-Um aplicativo de console simples para gerenciar uma lista de tarefas.
+Um aplicativo de console simples para gerenciar uma lista de tarefas e por em prática conceitos que eu tenho estudado em c#.
 
 ## Funcionalidades
 
